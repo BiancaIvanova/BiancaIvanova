@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bianca! 👋
 
-<!--
-**BiancaIvanova/BiancaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student from London who likes to make cool things!
 
-Here are some ideas to get you started:
+## 🚀 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about computer science, especially when it comes to solving problems and exploring new technologies. Whether it’s competitive programming, software development, or... well... robotics, I’m always looking for ways to challenge myself and improve.
+
+One thing you'll quickly learn about me: wherever there are robots, you’ll find me! I’m actively involved as a competitor, volunteer, or team mentor in most major educational robotics programs, including VIQRC, V5RC, FLL, and FTC.
+
+I've spent the most time on these two teams:
+- Entropy 17711E (VEX V5 Robotics Competition)
+- Equuleus #21187 (FIRST Tech Challenge)
