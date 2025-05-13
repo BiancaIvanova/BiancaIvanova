@@ -12,5 +12,7 @@ I've spent the most time on these two teams:
 - Entropy 17711E (VEX V5 Robotics Competition)
 - Equuleus #21187 (FIRST Tech Challenge)
 
+I've cumulatively won over 30 awards at regional, national, and international level in competition robotics.
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiancaIvanova)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaIvanova&layout=compact&langs_count=10)
